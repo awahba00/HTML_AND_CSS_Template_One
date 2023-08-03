@@ -111,7 +111,7 @@ body{
   padding: 10px 15px;
 }
 .header img {   /* Logo */
-  width: 1190px;
+  width: 90px;
 }
 .links{
   position: relative;
@@ -193,6 +193,8 @@ width: 100%;
 
 /* start landing */
 .landing{
+  -webkit-background-image: url(/images/landing.jpg);
+    -moz-background-image: url(/images/landing.jpg);
   background-image: url(/images/landing.jpg);
   background-size: cover;
   height: calc(100vh - 56px);
