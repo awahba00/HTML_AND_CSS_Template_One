@@ -193,7 +193,7 @@ width: 100%;
 
 /* start landing */
 .landing{
-  background-image: url(/images/landing-2.jpg);
+  background-image: url(/images/portfolio-2.jpg);
   background-size: cover;
   height: calc(100vh - 56px);
   position: relative;
