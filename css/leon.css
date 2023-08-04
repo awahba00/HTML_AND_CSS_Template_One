@@ -109,9 +109,13 @@ body{
   justify-content: space-between;
   align-items: center;
   padding: 10px 15px;
+  background-color: white;
 }
 .header img {   /* Logo */
   width: 90px;
+}
+.header{
+  background-color: white;
 }
 .links{
   position: relative;
@@ -299,6 +303,7 @@ width: 100%;
 .services{
   padding-top: var(--main-padding);
   padding-bottom: var(--main-padding); 
+  background-color: white;
 }
 .services .services-content{
   display: grid;
@@ -480,6 +485,7 @@ width: 100%;
 .about{
   padding-top: var(--main-padding);
   padding-bottom: var(--main-padding);
+  background-color: white;
 }
 .about-content{
   display: grid;
